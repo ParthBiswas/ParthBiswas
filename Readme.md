@@ -1,10 +1,12 @@
 Hi there, I'm Parth Biswas 👋
 
-![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParthBiswas&show_icons=true&theme=radical)
+![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParthBiswas&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Parth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthBiswas&layout=compact&theme=radical)
 
-![Parth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthBiswas&layout=compact&theme=radical)
-
+<div align="center">
+  
 ![Parth's GitHub Streak](https://streak-stats.demolab.com/?user=ParthBiswas&theme=radical)
+
+</div>
 
 I am a Linux Administrator and a recent B.Tech in Computer Science graduate. I specialize in server configuration, networking protocols, and cloud infrastructure, always eager to optimize systems and build reliable environments.
 
