@@ -1,36 +1,41 @@
-Hi there, I'm Parth Biswas 👋
+👋 Hi, I'm Parth Biswas
 
-I am a Linux Administrator and a recent B.Tech in Computer Science graduate. I specialize in server configuration, networking protocols, and cloud infrastructure, always eager to optimize systems and build reliable environments.
+🐧 Linux Administrator | ☁️ Cloud & Networking Enthusiast | 🎓 B.Tech CSE Graduate
+
+I specialize in server configuration, networking protocols, and cloud infrastructure — always eager to optimize systems and build reliable, production-grade environments.
+
+---
 
 👨‍💻 About Me
-🔭 I’m currently working deep in the world of Linux administration, managing systems and diving into the ins and outs of server architecture.
 
-🌱 I’m continually expanding my expertise in cloud infrastructure, particularly designing and deploying custom Amazon VPCs, EC2, and S3.
+🔭 Currently working as a **Network Implementation Engineer Intern at ThoughtData**, deploying their Enterprise360 IT observability platform for enterprise clients across banking, government, and defense sectors.
 
-🚀 Beyond day-to-day administration, I am actively exploring opportunities in Software QA Engineering and .NET development.
+🌱 Continually expanding my expertise in cloud infrastructure — particularly designing and deploying custom Amazon VPCs, EC2, and S3.
 
-🎯 Long-term goals: Pursuing a Master's degree in the coming years.
+🚀 Beyond day-to-day administration, actively exploring opportunities in Software QA Engineering and .NET development.
 
+🎯 Long-term goal: Pursuing a Master's degree in the coming years.
+
+---
 
 🛠️ Tech Stack & Skills
-Operating Systems: Linux (RHEL, Ubuntu, Kali)
 
-Cloud & Infrastructure: AWS (VPC, EC2, S3)
+**Operating Systems:** Linux (RHEL, Ubuntu, Kali)  
+**Cloud & Infrastructure:** AWS (VPC, EC2, S3)  
+**Networking:** TCP/IP Protocols  
+**Scripting:** Bash Scripting  
 
-Networking: TCP/IP Protocols
-
-Scripting: Bash Scripting
-
+---
 
 ⚡ Fun Facts & Outside the Terminal
-🍥 Massive fan of the Naruto and Boruto universe.
 
-☕ My ultimate productivity fuel: 36-hour fasting routines, sugar-free coffee, and 90%+ dark chocolate.
+🍥 Massive fan of the Naruto and Boruto universe.  
+☕ My ultimate productivity fuel: 36-hour fasting routines, sugar-free coffee, and 90%+ dark chocolate.  
+⛰️ Based out of Uttarakhand — love hitting the road and exploring through car and intercity travel.
 
-⛰️ Based out of Uttarakhand, I love hitting the road and exploring through car and intercity travel.
+---
 
-📫 Connect with me:
+📫 Connect with me
 
-  LinkedIn: [ParthBiswas](https://www.linkedin.com/in/parthubiswas/)
-
-  Email: [Parthurmibiswas@gmail.com](Parthurmibiswas@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/parthubiswas/)  
+- 📧 Parthurmibiswas@gmail.com
