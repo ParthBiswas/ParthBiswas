@@ -37,5 +37,5 @@ I specialize in server configuration, networking protocols, and cloud infrastruc
 
 📫 Connect with me
 
-- 💼 <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>  
+- 💼 <a href="https://www.linkedin.com/in/parthubiswas/" target="_blank">LinkedIn</a>  
 - 📧 Parthurmibiswas@gmail.com
